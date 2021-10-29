@@ -3,7 +3,7 @@
 @namespace      USO Archive
 @author         pawelos076232
 @description    `Quite dark style for the SoundCloud`
-@version        20211608.01.12
+@version        20212910.15.20
 @license        NO-REDISTRIBUTION (Whoops)
 @updateURL      https://raw.githubusercontent.com/BanementI/Soundcloud-QuiteDark/main/Soundcloud-QuiteDark.css
 @homepageURL	https://github.com/BanementI/Soundcloud-QuiteDark
@@ -272,6 +272,10 @@
     .createPlaylistSuggestion__addContainer {
         background: linear-gradient(to right, rgba(17, 17, 17, 0.1), #111 20px)
     }
+	.playlistConsumerSubUpsell__messageBox {
+		background: #111;
+		border-color: #222;
+	}
     .truncatedAudioInfo.m-overflow.m-collapsed .truncatedAudioInfo__wrapper::after {
         background: #111;
         background: linear-gradient(rgba(17, 17, 17, 0), rgba(17, 17, 17, 0.5) 90%, #111)
